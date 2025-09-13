@@ -43,15 +43,15 @@ Our approach involves:
 <br/>
 
 ## 📊 Sample Output  
-### Talk-Time Ratio  
-![talk-time-ratio](![waveform](Images\speakers_timeline.png)  )  
+### Talk-Time Ratio
+![talk-time-ratio](Images/speakers_timeline.png)
 
-### Waveform Comparison  
-![waveform](Images\original_audio_waveform.png)  
-![waveform](Images\processed_audio_waveform.png)  
+### Waveform Comparison
+![waveform](Images/original_audio_waveform.png)
+![waveform](Images/processed_audio_waveform.png)
 
 ### Call Sentiment
-![call-sentiment](Images\call_sentiment.png)
+![call-sentiment](Images/call_sentiment.png)
 <br/>
 
 ## Project Structure
