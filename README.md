@@ -72,7 +72,7 @@ Call-Quality-Analyzer/
 
 ## How to Run
 1. Open `call_quality_analyzer.ipynb` in Google Colab.
-2. Install required dependencies.
+2. Install required dependencies and set Hugging Face API key.
 3. Run all cells step by step.
 4. Provide a YouTube link to analyze the sales call.
 
