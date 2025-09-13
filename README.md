@@ -44,11 +44,14 @@ Our approach involves:
 
 ## 📊 Sample Output  
 ### Talk-Time Ratio  
-![talk-time-ratio](photos/talk_time_ratio.png)  
+![talk-time-ratio](![waveform](Images\speakers_timeline.png)  )  
 
 ### Waveform Comparison  
-![waveform](photos/waveform_comparison.png)  
+![waveform](Images\original_audio_waveform.png)  
+![waveform](Images\processed_audio_waveform.png)  
 
+### Call Sentiment
+![call-sentiment](Images\call_sentiment.png)
 <br/>
 
 ## Project Structure
@@ -58,12 +61,12 @@ Call-Quality-Analyzer/
 ├── call_quality_analyzer.ipynb    # Main Jupyter Notebook for analysis
 ├── README.md                      # Project documentation
 ├── Images/                        # Screenshots and images
-│   ├── Screenshot 2025-09-13 223354.png
-│   ├── Screenshot 2025-09-13 223418.png
-│   ├── Screenshot 2025-09-13 223434.png
-│   ├── Screenshot 2025-09-13 224220.png
-│   ├── Screenshot 2025-09-13 224234.png
-│   ├── Screenshot 2025-09-13 224252.png
+│   ├── audio_compare.png
+│   ├── call_sentiment.png
+│   ├── most_freuent_words.png
+│   ├── original_audio_waveform.png
+│   ├── processed_audio_waveform.png
+│   ├── speakers_timeline.png
 │   └── Screenshot 2025-09-13 225608.png
 ```
 
